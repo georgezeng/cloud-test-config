@@ -1,8 +1,14 @@
 server:
-  port: 8762
+  port: 8761
   
 eureka:
   client:
     registerWithEureka: false
     fetchRegistry: false
  
+spring:
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
