@@ -1,2 +1,2 @@
-common.name: test
+common.name: common-test
 management.security.enabled: false

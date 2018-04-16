@@ -1,1 +1,3 @@
-service1.message: testhaha2
+server.port: 8001
+service1.message: test
+ 

@@ -1,0 +1,4 @@
+server.port: 8989
+turbine:
+  clusterNameExpression: "'default'"
+  appConfig: service1,service2
